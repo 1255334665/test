@@ -7,7 +7,7 @@
         name: "app",
         data(){
             return {
-                text:'今天是周三'
+                text:'这是第一次修改后更新到gitHub'
             }
         }
     }
